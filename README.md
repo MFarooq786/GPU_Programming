@@ -18,8 +18,8 @@ You are now connected to a GPU, and Colab should allocate the best available GPU
 ### 2. Install numba library on the Google Collab
 ```python
 !pip install numba
-
-### 2. Check for GPU Availability
+```
+### 3. Check for GPU Availability
 
 After enabling the GPU, run the following Python code to confirm that the GPU is available:
 ```python
