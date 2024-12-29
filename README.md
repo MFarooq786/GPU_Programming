@@ -16,6 +16,7 @@ To access a GPU like the T4, follow these steps:
 You are now connected to a GPU, and Colab should allocate the best available GPU, including the T4.
 
 ### 2. Install numba library on the Google Collab
+```python
 !pip install numba
 
 ### 2. Check for GPU Availability
